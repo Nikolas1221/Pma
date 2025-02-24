@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PMA Tile and Stone | Lynnwood, WA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+    <header class="bg-blue-600 text-white text-center p-6">
+        <h1 class="text-3xl font-bold">PMA Tile and Stone</h1>
+        <p class="text-lg">Professional Tile Installation in Lynnwood, WA</p>
+    </header><section class="p-6 text-center">
+    <h2 class="text-2xl font-bold">About Us</h2>
+    <p class="mt-4">We specialize in high-quality tile installation for homes and businesses. Precision, beauty, and durability in every project.</p>
+</section>
+
+<section class="p-6 bg-white">
+    <h2 class="text-2xl font-bold text-center">Our Services</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+        <div class="p-4 bg-gray-200 rounded-lg text-center">
+            <h3 class="font-bold">Floor Tiling</h3>
+            <p>Durable and stylish floor tile installation.</p>
+        </div>
+        <div class="p-4 bg-gray-200 rounded-lg text-center">
+            <h3 class="font-bold">Bathroom Renovation</h3>
+            <p>Transform your bathroom with beautiful tiles.</p>
+        </div>
+        <div class="p-4 bg-gray-200 rounded-lg text-center">
+            <h3 class="font-bold">Kitchen Backsplash</h3>
+            <p>Elegant and functional backsplashes for your kitchen.</p>
+        </div>
+    </div>
+</section>
+
+<section class="p-6 text-center bg-gray-200">
+    <h2 class="text-2xl font-bold">Contact Us</h2>
+    <p class="mt-2">Phone: <a href="tel:+14255551234" class="text-blue-600">(425) 555-1234</a></p>
+    <p>Email: <a href="mailto:info@pmatileandstone.com" class="text-blue-600">info@pmatileandstone.com</a></p>
+    <p>Address: Lynnwood, WA</p>
+</section>
+
+<footer class="bg-blue-600 text-white text-center p-4">
+    <p>&copy; 2025 PMA Tile and Stone | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
